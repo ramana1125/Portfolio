@@ -48,14 +48,15 @@ As an AI Automation intern, I work on automating pipelines, integrating LLM work
   ],
   projects: [
     {
-      title: "GitHub Clone",
+      title: "DevVault - GitHub Clone",
       description: "",
       highlights: [
-        "Developed a GitHub-inspired platform for managing repositories and user profiles.",
-        "Implemented secure login, signup, authentication, and protected routes.",
-        "Built interactive dashboards for repository creation and management.",
-        "Developed RESTful APIs for repositories, users, and issue tracking.",
-        "Managed database schemas and relationships with MongoDB and Mongoose.",
+        "Created a full-stack application similar to GitHub for repository management and issue tracking.",
+        "Developed secure login and authentication features for authorized user access.",
+        "Built a user-friendly dashboard to manage repositories and monitor project activities.",
+        "Created custom CLI commands using Yargs to simulate Git operations like init, commit, push, and pull.",
+        "Structured MongoDB database models for users, repositories, and issues with proper relationships.",
+        "Connected frontend and backend components through RESTful API integration.",
       ],
       tech: ["React.js", "Node.js", "Express.js", "MongoDB", "AWS"],
       github: "https://github.com/ramana1125",
