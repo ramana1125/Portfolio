@@ -48,7 +48,7 @@ As an AI Automation intern, I work on automating pipelines, integrating LLM work
   ],
   projects: [
     {
-      title: "DevVault - GitHub Clone",
+      title: "DevVault - GitHub Inspired Platform",
       description: "",
       highlights: [
         "Created a full-stack application similar to GitHub for repository management and issue tracking.",
